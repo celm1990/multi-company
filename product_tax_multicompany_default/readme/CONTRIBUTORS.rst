@@ -4,3 +4,6 @@
   * Pedro M. Baeza
   * Vicent Cubells
   * Ernesto Tejeda
+
+* Loo-ERP <http://odooerp.cl/>`_:
+  * Carlos Lopez
